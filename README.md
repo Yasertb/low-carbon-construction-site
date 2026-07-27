@@ -49,3 +49,10 @@ employer or apprentice information.
 
 This is an educational comparison, not a certified whole-life carbon assessment. Machine and battery
 manufacture and end-of-life impacts are outside the current model.
+
+## Wording clarification in this amended version
+
+The dashboard now states that the displayed result is the **lowest calculated carbon**
+option, not an automatic recommendation. Downtime is explicitly described as an
+assumption, and a visible reminder asks apprentices to consider grid access, safety,
+cost, productivity and programme risk before recommending a strategy.

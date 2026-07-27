@@ -32,5 +32,14 @@
     "model.py",
     "requirements.txt",
     "run_local.bat"
-  ]
+  ],
+  "amendment": {
+    "status": "completed",
+    "changes": [
+      "Lowest carbon KPI labelled as lowest calculated carbon",
+      "Downtime labelled as an assumption",
+      "Visible professional-judgement statement added beneath KPI cards",
+      "Related chart and table wording made consistent"
+    ]
+  }
 }
