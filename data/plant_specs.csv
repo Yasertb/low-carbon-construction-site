@@ -1,0 +1,7 @@
+﻿Spec_ID,Machine_or_Input,Value,Unit,Data_Quality,Source_URL,Use_in_Model,Note
+PS1,Volvo EC18 Electric battery capacity,20,kWh,Manufacturer specification,https://www.volvoce.com/united-states/en-us/products/electric-machines/ec18-electric/,Battery charging adequacy,Official page reports 20 kWh capacity.
+PS2,Volvo EC18 Electric indicative runtime,6,hours,Manufacturer specification,https://www.volvoce.com/united-states/en-us/products/electric-machines/ec18-electric/,Teaching context,Runtime varies by application; trenching can be materially shorter.
+PS3,Volvo EC18 Electric standard charge time,6,hours,Manufacturer specification,https://www.volvoce.com/united-states/en-us/products/electric-machines/ec18-electric/,Teaching context,On-board 230 V charging.
+PS4,Volvo EC18 Electric fast charge time,1.25,hours,Manufacturer specification,https://www.volvoce.com/united-states/en-us/products/electric-machines/ec18-electric/,Teaching context,Off-board 400 V charging.
+PS5,JCB 19C-1E standard-application runtime,5,hours,Manufacturer specification,https://www.jcb.com/en-GB/products/machines/mini-excavators/19c-1e/,Cross-check,JCB describes five hours as equivalent to a full standard working day.
+PS6,Diesel mini-excavator fuel rate,3.2,litres/hour,Teaching assumption,Not applicable,Baseline calculation,Replace with measured or supplier data when available.
