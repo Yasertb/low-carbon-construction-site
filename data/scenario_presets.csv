@@ -1,5 +1,0 @@
-﻿Context_ID,Site_Context,Working_Days,Shift_Hours,Idle_Percent,Temporary_Power_kWh_per_day,Grid_Availability,Grid_Carbon_kgCO2e_per_kWh,Diesel_Price_GBP_per_L,Electricity_Price_GBP_per_kWh,Noise_Sensitivity,Community_Sensitivity,Data_Quality,Context_Note
-C1,Urban site near a school,30,7,0.2,20,Available,0.13096,1.55,0.25,High,High,Official factor + teaching assumptions,Urban site with strong air-quality and noise concerns; suitable grid connection.
-C2,Remote infrastructure site,45,8,0.15,25,Limited,0.13096,1.55,0.3,Low,Low,Official factor + teaching assumptions,Grid access is limited; temporary power and charging logistics are important.
-C3,City-centre noise-restricted site,25,6,0.15,18,Available,0.13096,1.55,0.27,Very high,High,Official factor + teaching assumptions,Shorter working window and strong noise constraints favour quiet plant.
-C4,Tight-programme long-shift site,20,10,0.1,30,Available,0.13096,1.55,0.25,Medium,Medium,Official factor + teaching assumptions,"Long shifts test battery runtime, charging and productivity assumptions."
