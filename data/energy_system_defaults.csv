@@ -1,0 +1,17 @@
+Parameter,Value,Unit,Data_Quality,Definition
+Machine_Battery_Capacity_kWh,20,kWh,Manufacturer specification,Maximum energy stored in the electric plant battery.
+Machine_Usable_Battery_Fraction,0.90,fraction,Teaching assumption,Share of battery capacity available for normal operation.
+Charger_Power_kW,11,kW,Teaching default,Maximum rated charger power before the site grid limit is applied.
+Charging_Efficiency,0.90,fraction,Teaching assumption,Share of charger electricity that reaches the machine battery.
+BESS_Capacity_kWh,40,kWh,Teaching default,Nominal capacity of the temporary site battery-storage system.
+BESS_Usable_Fraction,0.90,fraction,Teaching assumption,Share of BESS capacity available for use.
+BESS_Roundtrip_Efficiency,0.88,fraction,Teaching assumption,Electricity returned after storage losses.
+Lower_Carbon_Grid_Multiplier,0.65,multiplier,Teaching assumption,Carbon factor used for the share of charging moved to lower-carbon periods.
+Backup_Generator_L_per_kWh,0.24,L/kWh,Teaching assumption,Diesel used to provide one kWh of backup electricity.
+Diesel_Plant_Hire_GBP_day,180,GBP/day,Teaching assumption,Indicative conventional diesel plant hire cost.
+Efficient_Diesel_Plant_Hire_GBP_day,200,GBP/day,Teaching assumption,Indicative efficient diesel plant hire cost.
+Electric_Plant_Hire_GBP_day,260,GBP/day,Teaching assumption,Indicative electric plant hire cost.
+Diesel_Generator_Hire_GBP_day,60,GBP/day,Teaching assumption,Indicative conventional generator hire cost.
+Efficient_Generator_Hire_GBP_day,55,GBP/day,Teaching assumption,Indicative efficient generator hire cost.
+Grid_Power_System_Hire_GBP_day,30,GBP/day,Teaching assumption,Indicative grid connection and charging equipment cost.
+BESS_Power_System_Hire_GBP_day,80,GBP/day,Teaching assumption,Indicative battery-storage and charging equipment cost.

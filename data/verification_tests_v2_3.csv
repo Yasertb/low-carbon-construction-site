@@ -1,0 +1,23 @@
+Check,Expected,Observed,Passed
+Conventional diesel: operational carbon formula,2589.7404960000003,2589.740496,True
+Conventional diesel: expanded carbon formula,3202.2169200000008,3202.2169200000003,True
+Conventional diesel: energy cost formula,1553.7200000000003,1553.72,True
+Conventional diesel: total cost formula,9953.720000000001,9953.72,True
+Efficient diesel: operational carbon formula,2077.941222,2077.941222,True
+Efficient diesel: expanded carbon formula,2569.376565,2569.376565,True
+Efficient diesel: energy cost formula,1246.665,1246.6649999999997,True
+Efficient diesel: total cost formula,10171.665,10171.664999999999,True
+Grid electric: plant supply balance,20.313,20.313,True
+Grid electric: temporary-power supply balance,24.0,24.0,True
+Grid electric: operational carbon formula,213.45825199999996,213.45825199999996,True
+Grid electric: expanded carbon formula,294.6460614999999,294.6460614999999,True
+Grid electric: energy cost formula,407.48749999999995,407.48749999999995,True
+Grid electric: total cost formula,10557.4875,10557.4875,True
+Electric + smart power: plant supply balance,20.313,20.313,True
+Electric + smart power: temporary-power supply balance,24.0,24.0,True
+Electric + smart power: operational carbon formula,182.29091789999995,182.29091789999995,True
+Electric + smart power: expanded carbon formula,266.3314819454545,266.3314819454545,True
+Electric + smart power: energy cost formula,421.80568181818177,421.80568181818177,True
+Electric + smart power: total cost formula,12321.805681818181,12321.805681818181,True
+Modified example: all carbon results complete,True,True,True
+Modified example: electric strategies have zero unserved energy,0.0,0.0,True
